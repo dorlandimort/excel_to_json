@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "archiver": "^3.0.0",
-    "read-excel-file": "^2.0.10"
+    "read-excel-file": "^5.5.0"
   }
 }
